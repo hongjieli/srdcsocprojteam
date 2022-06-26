@@ -15,6 +15,7 @@ public class Testproj {
         System.out.println("Hello World!");
         mainFrame mf = new mainFrame();
         mf.setVisible(true);
+        System.out.println("finished");
     }
 
 }
